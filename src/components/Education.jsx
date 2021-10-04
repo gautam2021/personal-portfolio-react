@@ -13,7 +13,7 @@ const Education= () => {
       heading: "The Indian Public",
       price: "Inter College",
       msg1: "Gomti Nagar Lucknow",
-      msg2: "High School ( 10th )",
+      msg2: "High School ( 10th ) (2013-2014)",
       msg3: "Percentage : 85.83 %",
       msg4: "* * * * * * *",
       
@@ -23,8 +23,8 @@ const Education= () => {
       heading: "The Indian Public",
       price: "Inter College",
       msg1: "Gomti Nagar Lucknow",
-      msg2: "Intermediate ( 12th )",
-      msg3: "Percentage : 85 %",
+      msg2: "Intermediate ( 12th ) (2014-2016)",
+      msg3: "Percentage : 85 % ",
       msg4: "Physics Chemestry Mathematics",
       
     },

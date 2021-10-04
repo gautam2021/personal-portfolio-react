@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import { FaFacebookF } from "react-icons/fa";
+import { FaBars } from "react-icons/fa";
 const Nav = () => {
   const [state, setState] = React.useState(true);
   return (
@@ -67,7 +67,7 @@ const Nav = () => {
         </div>
       </div>
       <div className="toggle" onClick={() => setState(!state)}>
-        <FaFacebookF />
+        <FaBars />
       </div>
     </nav>
   );
