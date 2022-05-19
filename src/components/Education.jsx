@@ -10,16 +10,47 @@ const Education= () => {
   const [state] = React.useState([
     {
       id: 1,
-      heading: "The Indian Public",
-      price: "Inter College",
-      msg1: "Gomti Nagar Lucknow",
-      msg2: "High School ( 10th ) (2013-2014)",
-      msg3: "Percentage : 85.83 %",
-      msg4: "* * * * * * *",
+      heading: "SS&C Technologies",
+      price: "Software QA Engineer",
+      msg1: "Dealing with Changes",
+      msg2: "Collabration with Developers",
+      msg3: "",
+      msg4: "",
+      
       
     },
     {
       id: 2,
+      heading: "Newton School ",
+      price: "Full Stack 6 Months",
+      msg1: "Web Development Bootcamp",
+      msg2: "Data Structure and algorithms (Java)",
+      msg3: "HTML, CSS, JavaScript",
+      msg4: "ReactJs NodeJs Mongo DB",
+     
+    },
+    {
+      id: 3,
+      heading: "Cetpa Info Tech ",
+      price: "Summer Traning",
+      msg1: "Python",
+      msg2: "Data Structure (Python)",
+      msg3: "My SQL Databases",
+      msg4: "Numpy Pandas Scipy OpenCv",
+     
+    },
+    {
+      id: 4,
+      heading: "Rajkiya Engineering",
+      price: "College",
+      msg1: "Sonbhadra U.P.",
+      msg2: "Bachelor of Technology (2017-2021)",
+      msg3: "Percentage : 76 %",
+      msg4: "Computer Science and Engineering",
+      
+    },
+    {
+      id: 5,
       heading: "The Indian Public",
       price: "Inter College",
       msg1: "Gomti Nagar Lucknow",
@@ -29,42 +60,13 @@ const Education= () => {
       
     },
     {
-      id: 3,
-      heading: "Rajkiya Engineering",
-      price: "College",
-      msg1: "Sonbhadra U.P.",
-      msg2: "Bachelor of Technology (2017-2021)",
-      msg3: "Percentage : 74.54 %",
-      msg4: "Computer Science and Engineering",
-      
-    },
-    {
-      id: 4,
-      heading: "Cetpa Info Tech ",
-      price: "Summer Traning",
-      msg1: "Python",
-      msg2: "Data Structure (Python)",
-      msg3: "My SQL Databases",
-      msg4: "Numpy Pandas Scipy OpenCv",
-      
-    },
-    {
-      id: 5,
-      heading: "Newton School *",
-      price: "Full Stack 6 Months",
-      msg1: "Web Development Bootcamp",
-      msg2: "Data Structure and algorithms (Java)",
-      msg3: "HTML, CSS, JavaScript",
-      msg4: "ReactJs NodeJs Mongo DB",
-    },
-    {
-      id: 6,
-      heading: "SS&C Technologies",
-      price: "Software QA Engineer",
-      msg1: "Dealing with Changes",
-      msg2: "Collabration with Developers",
-      msg3: "",
-      msg4: "",
+      id: 1,
+      heading: "The Indian Public",
+      price: "Inter College",
+      msg1: "Gomti Nagar Lucknow",
+      msg2: "High School ( 10th ) (2013-2014)",
+      msg3: "Percentage : 85.83 %",
+      msg4: "* * * * * * *",
       
     },
   ]);
