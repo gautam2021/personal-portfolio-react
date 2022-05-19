@@ -59,12 +59,12 @@ const Education= () => {
     },
     {
       id: 6,
-      heading: "NEXT",
-      price: "Want to be",
-      msg1: "Front-End Developer",
-      msg2: "Back-End Developer",
-      msg3: "Software Engineer",
-      msg4: "Full Stack Developer [MERN] *",
+      heading: "SS&C Technologies",
+      price: "Software QA Engineer",
+      msg1: "Dealing with Changes",
+      msg2: "Collabration with Developers",
+      msg3: "",
+      msg4: "",
       
     },
   ]);
