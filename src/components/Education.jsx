@@ -12,9 +12,9 @@ const Education= () => {
       id: 1,
       heading: "SS&C Technologies",
       price: "Software QA Engineer",
-      msg1: "Dealing with Changes",
-      msg2: "Collabration with Developers",
-      msg3: "",
+      msg1: "Worked on several critical projects in the investment banking-based company",
+      msg2: "Resolved technical issues and forecasted troubleshooting complications during software trials",
+      msg3: "Evaluated function, performance and design compliance of every product against design standards and customer need",
       msg4: "",
       
       
