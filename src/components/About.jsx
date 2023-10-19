@@ -28,12 +28,7 @@ const About = () => {
             <div className="about__info">
               <h1>Hi There</h1>
               <div className="about__info-p1">
-                I'm Mohit Kumar Gautam , Recently completed my Bachelor's of
-                Technology in the field of Computer Science and Engineering at
-                Rajkiya Engineering College Sonbhadra (Dr. A.P.J. Abdul Kalam
-                Technical University). I was raised and grow up in Lucknow Uttar
-                Pradesh. I have experience and knowledge of programming and
-                completed certain projects in web development
+               My name is Mohit Kumar Gautam and I am currently working as a Software QA Engineer at SS&C Technologies for 2 years. alongwith I had the opportunity to gain full-stack web development Trainee experience for 7 months at Newton School.
               </div>
               <div className="about__info-p2">
               working regularly to update myself with the new era of Computer Technologies
