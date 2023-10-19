@@ -23,11 +23,11 @@ const Education= () => {
     {
       id: 2,
       heading: "Newton School ",
-      price: "Full Stack 6 Months",
-      msg1: "Web Development Bootcamp",
-      msg2: "Data Structure and algorithms (Java)",
-      msg3: "HTML, CSS, JavaScript",
-      msg4: "ReactJs NodeJs Mongo DB",
+      price: "Full Stack Web Development- Trainee",
+      msg1: "Proficient in building end-to-end web solutions that prioritize user-centric design and meet diverse objectives",
+      msg2: "Designed, developed, and deployed web applications proficiently in both front-end and back-end technologies, with expertise in creating seamless user experiences",
+      msg3: "Participating in coding contests organized by platforms Built various projects",
+      msg4: "Technical stack learned: JAVA, HTML, CSS, JS, BOOTSTRAP and REACT, NODE, EXPRESS, MONGODB, SQL etc",
      
     },
     {
