@@ -13,7 +13,7 @@ const Education= () => {
       heading: "SS&C Technologies",
       price: "Software QA Engineer",
       msg1: "Worked on several critical projects in the investment banking-based company",
-      msg2: "Resolved technical issues and forecasted troubleshooting complications during software trials",
+      msg2: "Tested and validated software systems to ensure functionality, usability, and reliability for multiple clients, resulting in a 98% client satisfaction rating. ",
       msg3: "Evaluated function, performance and design compliance of every product against design standards and customer need",
       
       
