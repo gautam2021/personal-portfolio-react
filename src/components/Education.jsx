@@ -13,8 +13,9 @@ const Education= () => {
       heading: "SS&C Technologies",
       price: "Software QA Engineer",
       msg1: "Worked on several critical projects in the investment banking-based company",
-      msg2: "Tested and validated software systems to ensure functionality, usability, and reliability for multiple clients, resulting in a 98% client satisfaction rating. ",
-      msg3: "Evaluated function, performance and design compliance of every product against design standards and customer need",
+      msg2: "Tested and validated software systems to ensure functionality, usability, and reliability for multiple clients, resulting in a 98% client satisfaction rating",
+      msg3: "Collaborated with cross-functional teams to identify and prioritize software defects, leading to a 25% reduction in post-release defects and a 20% decrease in bug resolution time",
+      msg4:"Conducted root cause analysis and provided actionable recommendations to development teams, resulting in a 30% decrease in software defects in subsequent releases."
       
       
       
