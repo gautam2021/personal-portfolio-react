@@ -10,8 +10,7 @@ const Banner = () => {
   const [state] = React.useState({
     title: "Mohit Kumar Gautam",
     text:
-      "A passionate Full Stack Web Developer, building Web applications with JavaScript / Reactjs / Nodejs and some other cool libraries and frameworks.​",
-    
+      "A passionate Software QA Engineer at SS&C Technologies.I have a great understanding of testing tools, automation frameworks, and methodologies and excel in designing, scripting, and carrying out complicated test cases and scenarios. Expert in Functional Testing, Integration testing, Regression testing as well as Performance testing, API testing and much more."
   });
   return (
     <header className="header">
