@@ -16,8 +16,8 @@ const Contact = () => {
                 <img src="/images/circleFace.png" alt="" />
               </div>
               <p>
-                Are you looking for a Front-End/ Back-End/ Full Stack Developer/
-                Software Engineer ? Then Mohit kumar Gautam is here for you.
+                Are you looking for a Software QA Engineer | Automation | SDET | Functional, Integration, Regression, and API Testing  ? 
+                Then Mohit kumar Gautam is here for you.
               </p>
                 <div className="header__buttons">
                 <a href="mailto: mohitrecson1610@gmail.com" className="btn btn-outline" >Hire Me</a>
