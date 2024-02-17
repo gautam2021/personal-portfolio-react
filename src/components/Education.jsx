@@ -5,7 +5,7 @@ const Education= () => {
     mainHeader: "Just have a look",
     subHeading: "What I do",
     text:
-      "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+      "CRAZY QUALITY ASSURANCE ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
   });
   const [state] = React.useState([
     {
