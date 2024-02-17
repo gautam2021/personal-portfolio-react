@@ -10,7 +10,7 @@ import {
 const Projects = () => {
   const [header] = React.useState({
     subHeading: "My Projects",
-    text: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+    text: "CRAZY QUALITY ASSURACE ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
   });
   const [state] = React.useState([
     {
