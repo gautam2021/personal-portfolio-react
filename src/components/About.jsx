@@ -7,7 +7,7 @@ const About = () => {
   const [state] = React.useState([
     { id: 1, title: "Name:", text: "Mohit Kumar Gautam" },
     { id: 2, title: "Email:", text: "mohitrecson1610@gmail.com" },
-    { id: 3, title: "Phone:", text: "8932923831" },
+    { id: 3, title: "Phone:", text: "+91 8932923831" },
     { id: 4, title: "Address", text: "Viraj Khand 5 Gomti Nagar Lucknow Uttar Pradesh" },
   ]);
   return (
