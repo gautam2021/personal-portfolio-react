@@ -18,7 +18,7 @@ const Contact = () => {
               </div>
               <p>
                 Are you looking for a Software QA Engineer | Automation | SDET | Functional, Integration, Regression, and API Testing  ? 
-                Then Mohit kumar Gautam is here for you.
+                Then Mohit kumar Gautam is here for you....
               </p>
                 <div className="header__buttons">
                 <a href="mailto: mohitrecson1610@gmail.com" className="btn btn-outline" >Hire Me</a>
