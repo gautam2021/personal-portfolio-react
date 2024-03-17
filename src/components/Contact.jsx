@@ -4,6 +4,7 @@ import {
   FaTwitter,
   FaPinterest,
   FaInstagram,
+  FaHeart ,
 } from "react-icons/fa";
 const Contact = () => {
   return (
@@ -35,6 +36,7 @@ const Contact = () => {
                 </li>
                 <li>
                   <FaInstagram className="contactIcon" />
+                    <FaHeart  className="contactIcon" />
                 </li>
               </ul>
             </div>
