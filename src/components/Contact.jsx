@@ -37,9 +37,9 @@ const Contact = () => {
                 <li>
                   
 
-                     <Link to="https://www.freecodecamp.org/news/how-to-use-react-icons/">
+                  
                         <FaHeart  className="contactIcon" />          
-                    </Link> 
+                  
                 </li>
               </ul>
             </div>
