@@ -12,10 +12,10 @@ const Education= () => {
       id: 1,
       heading: "SS&C Technologies",
       price: "Software QA Engineer",
-      msg1: "Worked on several critical projects in the investment banking-based company",
-      msg2: "Tested and validated software systems to ensure functionality, usability, and reliability for multiple clients, resulting in a 98% client satisfaction rating",
-      msg3: "Collaborated with cross-functional teams to identify and prioritize software defects, leading to a 25% reduction in post-release defects and a 20% decrease in bug resolution time",
-      msg4:"Conducted root cause analysis and provided actionable recommendations to development teams"
+      msg1: "Conducted root cause analysis and provided actionable recommendations to development teams, resulting in a 30% decrease in software defects in subsequent releases.",
+      msg2: " Performed extensive testing and debugging to ensure high-quality, error-free code, which led to an improved user experience and increased customer satisfaction.",
+      msg3: "Responsible for preparing test procedures, complex test case scenarios, and test data, as well as executing tests, analyzing results, and reporting defects.",
+      msg4:"Learned and applied automation testing techniques using Selenium WebDriver and other automation tools."
       
       
       
@@ -38,6 +38,8 @@ const Education= () => {
       msg2: "Data Structure (Python)",
       msg3: "My SQL Databases",
       msg4: "Numpy Pandas Scipy OpenCv",
+      msg4: "* * * * * * *",
+      msg4: "* * * * * * *",
      
     },
     {
