@@ -35,8 +35,11 @@ const Contact = () => {
                   <FaPinterest className="contactIcon" />
                 </li>
                 <li>
-                  <FaInstagram className="contactIcon" />
-                    <FaHeart  className="contactIcon" />
+                  
+{/*                     <FaHeart  className="contactIcon" /> */}
+                     <Link to="https://www.freecodecamp.org/news/how-to-use-react-icons/">
+                        <FaHeart  className="contactIcon" />          
+                    </Link> 
                 </li>
               </ul>
             </div>
