@@ -36,7 +36,7 @@ const Contact = () => {
                 </li>
                 <li>
                   
-{/*                     <FaHeart  className="contactIcon" /> */}
+
                      <Link to="https://www.freecodecamp.org/news/how-to-use-react-icons/">
                         <FaHeart  className="contactIcon" />          
                     </Link> 
