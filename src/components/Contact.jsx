@@ -17,7 +17,7 @@ const Contact = () => {
                 <img src="/images/circleFace.png" alt="" />
               </div>
               <p>
-                Are you looking for a Software QA Engineer | Automation | SDET | Functional, Integration, Regression, and API Testing  ? 
+                Are you looking for a Versatile Software QA Engineer | Expert in Selenium, Functional & Regression Testing, API Testing | Proficient in TestNG & Rest Assured  ? 
                 Then Mohit kumar Gautam is here for you....
               </p>
                 <div className="header__buttons">
