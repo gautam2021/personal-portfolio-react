@@ -31,7 +31,7 @@ const About = () => {
               My name is Mohit Kumar Gautam. I have been in this industry for a total of 3.1 years, which includes 2.6 years of experience as a Software QA Engineer at SS&C Technologies. Along with this, I had the opportunity to obtain 7 months of Full Stack Web Development Trainee experience at Newton School.
               </div>
               <div className="about__info-p2">
-              Working regularly to update myself with the new era of Computer Technologies
+              Working regularly to update myself with the new era of Computer Technologies.
               </div>
               <div className="info__contacts">
                 <div className="row">
